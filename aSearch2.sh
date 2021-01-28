@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo $(clear)
 printf "Qual nome do anime?\n> "
 read anime
